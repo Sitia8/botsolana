@@ -1,4 +1,4 @@
-# Solana HFT Bot – Yellowstone gRPC Edition
+# Solana HFT Bot –
 
 _Algorithmic market-making & high-frequency trading on Solana, written in Rust._
 
